@@ -57,10 +57,7 @@ Versioneer is used to automatically track and update version strings.
 
 flake8, black, and isort are used to manage code style.
 
-### Reference management with duecredit
-
-duecredit is used to build reference lists for the codebase.
-duecredit is included as a required dependency.
+Pre-commit hooks are used to automatically run these tools before each commit.
 
 ### Documentation with Sphinx and ReadTheDocs
 
