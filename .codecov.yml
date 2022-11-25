@@ -15,7 +15,7 @@ coverage:
         threshold: 0
 
 ignore:
-  - 'template-package/tests/'
-  - 'template-package/due.py'
-  - 'template-package/_version.py'
-  - 'template-package/info.py'
+  - "package-template/tests/"
+  - "package-template/due.py"
+  - "package-template/_version.py"
+  - "package-template/info.py"

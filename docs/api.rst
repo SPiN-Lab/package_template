@@ -1,6 +1,6 @@
 .. _api_ref:
 
-.. currentmodule:: template-package
+.. currentmodule:: package-template
 
 ###
 API
@@ -10,21 +10,21 @@ API
 .. _api_module_ref:
 
 **************************************************
-:mod:`template-package.module`: Module description
+:mod:`package-template.module`: Module description
 **************************************************
 
-.. automodule:: template-package.module
+.. automodule:: package-template.module
    :no-members:
    :no-inherited-members:
 
-.. currentmodule:: template-package.module
+.. currentmodule:: package-template.module
 
 .. autosummary::
    :toctree: generated/
    :template: class.rst
 
-   template-package.module.Class
+   package-template.module.Class
 
    :template: function.rst
 
-   template-package.module.function
+   package-template.module.function

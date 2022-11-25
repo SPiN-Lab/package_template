@@ -1,1 +1,1 @@
-template-package/_version.py export-subst
+package-template/_version.py export-subst
